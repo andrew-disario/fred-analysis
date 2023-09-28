@@ -1,4 +1,4 @@
-<h1>Use FRED, Python, Pandas and Matplotlib to Analyze the S&P 500</h1>
+<h1>Analyze the S&P 500 with FRED, Python, Pandas and Matplotlib</h1>
 <p align="center">
 <img src="https://github.com/andrew-disario/sp-500/blob/main/SP500.png?raw=true" height="75%" width="75%" alt="sp500"/>
 <br />
